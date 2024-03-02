@@ -135,12 +135,12 @@ public class DiffieHellmanClient {
 
 <h2>Pokretanje</h2>
 
-<p><b>Konzola 1</b></p>
+<p><b>1️⃣ Konzola 1</b></p>
 
 ```
 java DiffieHellmanServer
 ```
-<p><b>Konzola 2</b></p>
+<p><b>2️⃣ Konzola 2</b></p>
 
 ```
 java DiffieHellmanClient
