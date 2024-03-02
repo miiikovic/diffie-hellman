@@ -1,8 +1,8 @@
-<h1>Implementacija Diffie-Hellman protokola</h1>
+<h1>Implementation of the Diffie-Hellman protocol</h1>
 
-<p>Koristim Diffie Hellman algoritam da izgenerisem zajednicki tajni ključ između "Servera" i "Clienta"</p>
+<p>Using Diffie Hellman algorithm to generate a shared secret key between the server and the client"</p>
 
-<p>Program je napisan u dve Java ☕️ klase i osmišljen tako da se pokreće kroz dve konzole gde jedna demonstrira perspektivu Servera (DiffieHellmanServer), a druga Clienta (DiffieHellmanClient)</p>
+<p>The protocol is implemented within two Java ☕️ classes and should be ran through two consoles (DiffieHellmanServer.java in the first and DiffieHellmanClient.java in the second</p>
 
 <h2> Server </h2>
 
