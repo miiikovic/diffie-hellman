@@ -84,8 +84,8 @@ public class DiffieHellmanClient {
             int port = 8088;
 
             // Declare p, g, and Key of client
-            int p = 23;
-            int g = 9;
+            int p = 17;
+            int g = 7;
             int a = 4;
             double Adash, serverB;
 
