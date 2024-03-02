@@ -2,7 +2,7 @@
 
 <p>Using Diffie Hellman algorithm to generate a shared secret key between the server and the client"</p>
 
-<p>The protocol is implemented within two Java ☕️ classes and should be ran through two consoles (DiffieHellmanServer.java in the first and DiffieHellmanClient.java in the second</p>
+<p>The protocol is implemented within two Java ☕️ classes and should be run through two consoles (DiffieHellmanServer.java in the first and DiffieHellmanClient.java in the second</p>
 
 <h2> Server </h2>
 
